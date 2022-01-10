@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 31.796 s <<< FAILURE! - in TestSuite
+EndtoEndFrameWork.validateNavigationBar.ValidateNavigationBar  Time elapsed: 0.111 s  <<< FAILURE!
+java.lang.AssertionError: expected [false] but found [true]
+	at EndtoEndFrameWork.validateNavigationBar.ValidateNavigationBar(validateNavigationBar.java:40)
+
+EndtoEndFrameWork.qaClickTest.NavigatePage[singhpritam007, lion007007, For restricted User](1)  Time elapsed: 0.228 s  <<< FAILURE!
+java.sql.SQLException: No suitable driver found for jdbc:mysql://localhost:3306/automation
+	at EndtoEndFrameWork.qaClickTest.NavigatePage(qaClickTest.java:43)
+
+EndtoEndFrameWork.qaClickTest.NavigatePage[pritamsingh007, elephant008, For Valid User](2)  Time elapsed: 8.82 s  <<< FAILURE!
+java.sql.SQLException: No suitable driver found for jdbc:mysql://localhost:3306/automation
+	at EndtoEndFrameWork.qaClickTest.NavigatePage(qaClickTest.java:43)
+

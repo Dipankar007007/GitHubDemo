@@ -1,0 +1,7 @@
+02:29:36.173 [TestNG-tests-1] INFO  java.lang.Class - Login Button Clicked
+02:29:36.256 [TestNG-tests-1] INFO  java.lang.Class - User Name Entered
+02:29:36.317 [TestNG-tests-1] INFO  java.lang.Class - Password Entered
+02:29:36.412 [TestNG-tests-1] INFO  java.lang.Class - For restricted User
+02:29:42.828 [TestNG-tests-1] INFO  java.lang.Class - Course Name is correct
+02:29:43.605 [TestNG-tests-1] INFO  java.lang.Class - Login Button Clicked
+02:29:43.686 [TestNG-tests-1] INFO  java.lang.Class - User Name Entered
