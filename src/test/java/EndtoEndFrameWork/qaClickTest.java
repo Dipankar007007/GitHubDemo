@@ -70,7 +70,10 @@ public class qaClickTest extends Base{
 	         return data;
 	     }
 	
-
-	         
+	  @AfterTest
+	  public void update()
+	  {
+		  log.info("Getting Update");
+	  }
 	
 }
